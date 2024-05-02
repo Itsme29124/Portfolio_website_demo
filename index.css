@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+  font-family: 'outfit', sans-serif;
+  background: url('../src/assets/star3.jpg') no-repeat center center fixed;
+  background-size: cover;
+  color: white;
+}
